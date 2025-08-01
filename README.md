@@ -1,5 +1,4 @@
 # Portfolio
-![Portfolio-Website](./src/assets/github-cover.webp)
 
 
 ## Installation
